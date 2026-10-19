@@ -77,3 +77,20 @@ This project demonstrates how domain knowledge and software development can work
 ## Important Disclaimer
 
 All sample data is synthetic. This application is for educational demonstration only and must not be used for regulated quality decisions, product release, or patient-safety decisions.
+
+## Dashboard Screenshots
+
+### 1. Pharmaceutical Environmental Monitoring Dashboard
+![Monitoring Dashboard](Dashboard.png.PNG)
+
+### 2. Environmental Monitoring Trends
+![Monitoring Trends](Trends.png.PNG)
+
+### 3. Monitoring Results and Automated Quality Report
+![Monitoring Results and Quality Report](Monitoring%20_report.png.PNG)
+
+### 4. Quality Investigation Assistant
+![Quality Investigation Assistant](Quality_png.PNG)
+
+### 5. AI Quality Insights Assistant
+![AI Quality Insights Assistant](AI.Png%20.PNG)
