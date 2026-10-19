@@ -18,7 +18,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🧪 Pharmaceutical Environmental Monitoring Analyzer")
+st.title(" Pharmaceutical Environmental Monitoring Analyzer")
 
 st.write(
     "Analyze environmental monitoring data, identify "
