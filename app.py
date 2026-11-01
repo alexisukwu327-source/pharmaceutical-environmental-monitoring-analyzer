@@ -29,7 +29,7 @@ CREAM = "#F8F7F0"
 SAGE = "#DCE8DD"
 FOREST = "#275C48"
 GREEN = "#397A62"
-WHITE_TEXT = "#233D31"
+DARK_TEXT = "#233D31"
 WHITE = "#FFFFFF"
 AMBER = "#D4A34A"
 RED = "#C65B55"
@@ -66,6 +66,15 @@ h1, h2, h3 {
     color: #344D3F;
 }
 
+/* Force Try Demo Data button text to white */
+.stApp div.stButton > button[kind="primary"],
+.stApp div.stButton > button[kind="primary"] p {
+    color: #FFFFFF !important;
+}
+
+.stApp div.stButton > button[kind="primary"] {
+    background-color: #397A62 !important;
+}
 /* Metric cards */
 [data-testid="stMetric"] {
     background-color: #FFFFFF;
