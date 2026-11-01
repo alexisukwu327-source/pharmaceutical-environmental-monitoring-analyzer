@@ -154,7 +154,7 @@ def style_chart(fig, height=420):
         template="plotly_white",
         paper_bgcolor=CREAM,
         plot_bgcolor=WHITE,
-        font=dict(color=WHITE_TEXT),
+        font=dict(color=DARK_TEXT),
         title_font=dict(
             color=FOREST,
             size=17
